@@ -18,3 +18,7 @@ Just before starting my PhD, I worked for two years as a Research Engineer in IN
 Generally speaking, I have a deep passion for Combinatorial Optimization problems, especially when they have real-world applications that spark my curiosity. I am driven by the challenge of using my skills—and constantly learning new ones—to solve complex, integrated problems. My interests span a wide range of fields, from healthcare logistics and staff planning to national security. I find immense satisfaction in modeling problems, designing algorithms, and implementing solutions.
 
 Certain domains captivate me more than others. I'm particularly passionate about the Air and Space Industry, Marine Transportation, Hospitals, and national security and public safety . But in a broader sense, I'm always excited by the prospect of working on Mega Projects, highly complex systems, and critical infrastructures. These areas, with their immense scale and intricacy, are where I feel most inspired to make a meaningful impact.
+
+Socially speaking, I am particularly interested in promoting science for youth, especially girls. I have been participating in several events in the region of Hauts de France namely "Filles, maths et informatique : une équation lumineuse" and "Rendez-vous des Jeunes Mathématiciennes et Informaticiennes (RJMI)".
+
+I also like scientific popularization for children and for adults. I gave some presentations in INRIA about my topic of research explained to middle schools and high school students, and to INRIA employees with no basics in Operations Research.
