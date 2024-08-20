@@ -24,3 +24,4 @@ Socially speaking, I am particularly interested in promoting science for youth, 
 I also like scientific popularization for children and for adults. I gave some presentations in INRIA about my topic of research explained to middle and high school students, and to INRIA employees with no basics in Operations Research.
 
 I also collaborate with CHU of Lille on applying my research to a project of rare diseases prevention in Hauts de France.
+
