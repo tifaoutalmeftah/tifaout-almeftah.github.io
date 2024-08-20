@@ -6,8 +6,8 @@
 
 main:
   - title: "CV"
-    url: /files/Tifaout-ALMEFTAH_CV_FR.pdf
-    # url: /cv/
+    url: /cv/
+    # url: /files/Tifaout-ALMEFTAH_CV_FR.pdf
 
   - title: "Teaching"
     url: /teaching/ 
