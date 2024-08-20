@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Optimization and Prescriptive Analysis"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2022-2024-oap-centralelille
+venue: "Centrale Lille Institut"
+date: 2022
+location: "Villeneuve d'Ascq, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Since 2022, I have co-led Practical Exercises in Optimization and Prescriptive Analysis alongside Frédéric Semet and Diego Cattaruzza, dedicating 16 to 24 hours per year. These sessions are designed to introduce students to modeling and solving real-world optimization problems. Students learn to implement their models using IBM CPLEX STUDIO IDE (OPL), tackling Linear Programming and Integer Linear Programming challenges. The exercises cover a range of practical applications, including network distribution and transportation, a column generation-based cutting stock problem, medical doctors' scheduling, and airport immigration staff planning.
