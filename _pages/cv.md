@@ -64,7 +64,10 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 
 
-## Education
+[Download my CV (PDF)](/files/Tifaout-ALMEFTAH_CV_FR.pdf)
+
+Education
+======
 
 ### Doctorate in Operations Research
 - **Institution:** INRIA Research Center, University of Lille (INOCS Team) - Centrale Lille
@@ -84,7 +87,8 @@ Service and leadership
 - **Institution:** Lycée Technique, Errachidia, Morocco
 - **Duration:** 2013 – 2014
 
-## Professional Experience
+Professional Experience
+======
 
 ### Adjunct Lecturer in Optimization and Prescriptive Analysis
 - **Institution:** Centrale Lille
