@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Tifaout Almeftah"
 title_separator          : "-"
 name                     : &name "Tifaout Almeftah"
 description              : &description "Tifaout Almeftah personal website"
@@ -27,7 +27,7 @@ author:
   bio              : "Operations Research PhD Student in École Centrale de Lille"
   location         : "Villeneuve d'Ascq, France"
   employer         : "INRIA de l'Université de Lille"
-  uri              : # URL
+  uri              : "https://team.inria.fr/inocs/team-members/"
   email            : "tifaoutalmeftah@gmail.com" 
 
   # Academic websites
