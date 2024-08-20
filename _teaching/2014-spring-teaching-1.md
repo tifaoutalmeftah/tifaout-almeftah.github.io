@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Centrale Lille Institut"
-date: 2022
+date: 2022-02-28
 location: "Villeneuve d'Ascq, France"
 ---
 
