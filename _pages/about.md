@@ -21,4 +21,6 @@ Certain domains captivate me more than others. I'm particularly passionate about
 
 Socially speaking, I am particularly interested in promoting science for youth, especially girls. I have been participating in several events in the region of Hauts de France namely "Filles, maths et informatique : une équation lumineuse" and "Rendez-vous des Jeunes Mathématiciennes et Informaticiennes (RJMI)".
 
-I also like scientific popularization for children and for adults. I gave some presentations in INRIA about my topic of research explained to middle schools and high school students, and to INRIA employees with no basics in Operations Research.
+I also like scientific popularization for children and for adults. I gave some presentations in INRIA about my topic of research explained to middle and high school students, and to INRIA employees with no basics in Operations Research.
+
+I also collaborate with CHU of Lille on applying my research to a project of rare diseases prevention in Hauts de France.
