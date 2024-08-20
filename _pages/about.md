@@ -13,5 +13,6 @@ I hold my Computer Science Master's degree in OPtimization and ALgorithmics (OPA
 
 My PhD topic is Advanced Optimization Algorithms for Group Testing. I tackle the studied problem with Combinatorial Optimization techniques and exact methods.
 
-I am Interested more generally in Combinatorial Optimization.
+I have a deep passion for Combinatorial Optimization problems, especially when they have real-world applications that spark my curiosity. I am driven by the challenge of using my skills—and constantly learning new ones—to solve complex, integrated problems. My interests span a wide range of fields, from healthcare logistics and staff planning to national security. I find immense satisfaction in modeling problems, designing algorithms, and implementing solutions.
 
+Certain domains captivate me more than others. I'm particularly passionate about the Air and Space Industry, Marine Transportation, and Hospitals. But in a broader sense, I'm always excited by the prospect of working on Mega Projects, highly complex systems, and critical infrastructures. These areas, with their immense scale and intricacy, are where I feel most inspired to make a meaningful impact.
