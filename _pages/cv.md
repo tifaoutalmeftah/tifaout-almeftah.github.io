@@ -64,7 +64,8 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 
 
-Download my CV (PDF)[in French](https://tifaoutalmeftah.github.io/tifaout-almeftah.github.io/files/Tifaout-ALMEFTAH_CV_FR.pdf)
+Download my CV (PDF) [in French](https://tifaoutalmeftah.github.io/tifaout-almeftah.github.io/files/Tifaout-ALMEFTAH_CV_FR.pdf), [in English](https://tifaoutalmeftah.github.io/tifaout-almeftah.github.io/files/Tifaout-ALMEFTAH_CV_EN.pdf)
+
 
 Education
 ======
