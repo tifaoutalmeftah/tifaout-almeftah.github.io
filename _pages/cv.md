@@ -105,7 +105,7 @@ Professional Experience
 ### Research Internship
 - **Institution:** LCOMS Laboratory, University of Lorraine
 - **Duration:** 04/2019 – 09/2019
-- **Topic:** Decomposition algorithms for fairness in vehicle routing problems.
+- **Topic:** Decomposition algorithms for equity in vehicle routing problems.
 
 ### Algorithmic Tutor
 - **Institution:** University of Lorraine

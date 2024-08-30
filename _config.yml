@@ -27,7 +27,7 @@ author:
   bio              : "Operations Research PhD Student in École Centrale de Lille"
   location         : "Villeneuve d'Ascq, France"
   employer         : "INRIA de l'Université de Lille"
-  uri              : "https://team.inria.fr/inocs/team-members/"
+  uri              : #"https://team.inria.fr/inocs/team-members/"
   email            : "tifaoutalmeftah@gmail.com" 
 
   # Academic websites

@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tifaout. I am currently a third year PhD student in Operations Research at [INRIA de L'Université de Lille](https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille) under the supervision of [Martine Labbé](https://scholar.google.com/citations?user=WS_O3bIAAAAJ&hl=en), [Frédéric Semet](https://scholar.google.com/citations?user=6iUyQhMAAAAJ&hl=en&oi=ao) and [Diego Cattaruzza](https://scholar.google.com/citations?user=vNvqTXoAAAAJ&hl=en&oi=ao) all being part of team [INOCs](https://team.inria.fr/inocs/).
+Hi! I am Tifaout. I am currently a third year PhD student in Operations Research at [INRIA de L'Université de Lille](https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille) under the supervision of [Martine Labbé](https://scholar.google.com/citations?user=WS_O3bIAAAAJ&hl=en), [Frédéric Semet](https://scholar.google.com/citations?user=6iUyQhMAAAAJ&hl=en&oi=ao) and [Diego Cattaruzza](https://scholar.google.com/citations?user=vNvqTXoAAAAJ&hl=en&oi=ao) all being part of team [INOCS](https://team.inria.fr/inocs/team-members/).
 
 My PhD topic is Advanced Optimization Algorithms for Group Testing. My PhD research focuses on optimizing group testing strategies for large populations with low prevalence of a binary characteristic, such as disease presence. I study a non-adaptive, two-dimensional design where individuals are assigned to two different groups of equal size. The research accounts for imperfect tests and varying risk profiles, aiming to minimize both misclassification errors and the expected number of tests through a convex objective function. I tackle the studied problem with Combinatorial Optimization techniques and exact methods.
 
 I hold my Computer Science Master's degree in OPtimization and ALgorithmics (OPAL) from [Université de Lorraine](https://www.univ-lorraine.fr) in 2019, in Metz. This Master's focuses on algorithms and modeling for decision-making problems, covering both exact and approximate methods in Combinatorial Optimization. It includes deterministic approaches, the study of complexity, guaranteed approximation for NP-hard problems, and advanced techniques derived from graph theory.
 
-Just before starting my PhD, I worked for two years as a Research Engineer in INRIA de l'Université de Lille within team INOCs. I worked on implemeting a generic tool box on vehicle routing problems and on group testing design for Covid-19.
+Just before starting my PhD, I worked for two years as a Research Engineer in INRIA de l'Université de Lille within team INOCS. I worked on implemeting a generic tool box on vehicle routing problems and on group testing design for Covid-19.
 
 Generally speaking, I have a deep passion for Combinatorial Optimization problems, especially when they have real-world applications that spark my curiosity. I am driven by the challenge of using my skills—and constantly learning new ones—to solve complex, integrated problems. My interests span a wide range of fields, from healthcare logistics and staff planning to national security. I find immense satisfaction in modeling problems, designing algorithms, and implementing solutions.
 
